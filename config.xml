@@ -2,19 +2,13 @@
 <widget id="com.diegosch.workshop-employees" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>WorkshopEmployees</name>
     <description>
-        Tutorial Phonegap - Employee Directory.
-        Data adapters-LocalStorage
-        Single Page application - Views
-        Plugins notification, contacts, camera, geolocation.
-        Topcoat
+        Tutorial Phonegap - Employee Directory
     </description>
     <author email="diego.sch21@gmail.com" href="http://www.diegosch.com.ar">
         Apache Cordova Team
     </author>
     <content src="index.html" />
     <access origin="*" />
-    
-
     <gap:plugin name="org.apache.cordova.camera"/>
     <gap:plugin name="org.apache.cordova.contacts"/>
     <gap:plugin name="org.apache.cordova.device"/>
