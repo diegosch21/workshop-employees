@@ -11,4 +11,11 @@
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
 
+    <gap:plugin name="org.apache.cordova.camera"/>
+    <gap:plugin name="org.apache.cordova.contacts"/>
+    <gap:plugin name="org.apache.cordova.device"/>
+    <gap:plugin name="org.apache.cordova.geolocation"/>
+    <gap:plugin name="org.apache.cordova.dialogs" />
+    <gap:plugin name="org.apache.cordova.console"/>
+
 </widget>
